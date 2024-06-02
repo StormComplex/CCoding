@@ -18,8 +18,11 @@ int main() {
 
     ch = 'l';
 
-    // print the variable
-    printf("Age: %d", age);
+    // print the variables
+    // Use the first letter of data type to print each variable!
+    printf("Age: %d \n", age);
+    printf("The first 3 numbers of PI are: %f \n", PI);
+    printf("The charactaer is: %c \n", ch);
 
     return 0;
 }
