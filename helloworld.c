@@ -13,10 +13,10 @@ int main() {
     // Using variables to initiate data and then change the data
     char ch = 'a';
 
-    /* Now we change - note that you cannot change the type 
+    /* Now we change - note that you cannot change the variable type 
     or type of value within a variable*/
 
-    ch = 'l';
+    ch = 'l'; // Note that chars have single quotes ''
 
     // print the variables
     // Use the first letter of data type to print each variable!
